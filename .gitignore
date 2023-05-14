@@ -1,4 +1,4 @@
-/log
+log/
 /__pycache__
 build.sh
 docker-compose.yml
